@@ -15,6 +15,7 @@ To use this app, follow these steps:
 3. **Install Dependencies:**
    `npm install`
 
-4. **Run the app**
+4. **Run the app:**
    `npm run dev`
-   After running the last command, you can use `Control + o` to open the app.
+
+After running the last command, you can use `o + enter` to open the app.
