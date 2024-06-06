@@ -1,0 +1,28 @@
+.infocard {
+  background-color: #1f1f1f;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  width: 30em;
+}
+
+#location {
+  margin-bottom: 10px;
+}
+
+#location h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+#temperature {
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+#temperature h3 {
+  margin: 0;
+  font-size: 16px;
+  margin-bottom: 5px;
+}

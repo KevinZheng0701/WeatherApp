@@ -1,0 +1,16 @@
+#root {
+  max-width: 1440px;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: black;
+  color: white;
+}
